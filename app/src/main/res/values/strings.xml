@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CameraActivity</string>
+    <string name="photo">Photo </string>
+
+        <string name="hello">Calculator!</string>
+
+        <string name="loan_amount">Loan</string>
+        <string name="rate">Rate</string>
+        <string name="ten_year">10 yr</string>
+        <string name="fifteen_year">15 yr</string>
+        <string name="thirty_year">30 yr</string>
+        <string name="five_percent">5%</string>
+        <string name="monthly_payment">Monthly\nPayment</string>
+        <string name="term">Term</string>
+        <string name="zero">0.00</string>
+
+
+</resources>
